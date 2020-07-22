@@ -6,5 +6,3 @@
 
 
 * <a href="http://nbviewer.ipython.org/github/brett-hosking/supplementary/blob/master/FrontiersMarineScience2020/Thresholding_algorithms.ipynb" target="_blank">Python Notebook - Thresholding Algorithms</a> 
-
-* <a href="https://github.com/brett-hosking/supplementary/raw/master/FrontiersMarineScience2020/particle_dataset.zip" target="_blank">Image Dataset</a> 
